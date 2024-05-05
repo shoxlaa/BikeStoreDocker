@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "zEyHhR2qeUX/bZl+BKplQtMDppTKmSfzP24uxqPfPzpHpxlI/45BRSxHAVkIeQcXLh/q66IBfQAnskSQfFxOvg==",
+  "dgSpecHash": "R02WPA5DlXdprX2jsX+HSImYsawA9AD2w6HGI0fhGhjeU5xDmy8BOQaUVWV7PHwVygmEOj58IrMXjHOL5Qhsmg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Quliyeva Shahla\\source\\repos\\BikeApi\\BikeApi\\BikeApi.csproj",
+  "projectFilePath": "C:\\Users\\Quliyeva Shahla\\source\\repos\\shoxlaa\\BikeStoreDocker\\BikeApi\\BikeApi\\BikeApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Quliyeva Shahla\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\Quliyeva Shahla\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

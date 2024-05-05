@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Quliyeva Shahla\\source\\repos\\BikeApi\\BikeApi\\BikeApi.csproj": {}
+    "C:\\Users\\Quliyeva Shahla\\source\\repos\\shoxlaa\\BikeStoreDocker\\BikeApi\\BikeApi\\BikeApi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Quliyeva Shahla\\source\\repos\\BikeApi\\BikeApi\\BikeApi.csproj": {
+    "C:\\Users\\Quliyeva Shahla\\source\\repos\\shoxlaa\\BikeStoreDocker\\BikeApi\\BikeApi\\BikeApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Quliyeva Shahla\\source\\repos\\BikeApi\\BikeApi\\BikeApi.csproj",
+        "projectUniqueName": "C:\\Users\\Quliyeva Shahla\\source\\repos\\shoxlaa\\BikeStoreDocker\\BikeApi\\BikeApi\\BikeApi.csproj",
         "projectName": "BikeApi",
-        "projectPath": "C:\\Users\\Quliyeva Shahla\\source\\repos\\BikeApi\\BikeApi\\BikeApi.csproj",
+        "projectPath": "C:\\Users\\Quliyeva Shahla\\source\\repos\\shoxlaa\\BikeStoreDocker\\BikeApi\\BikeApi\\BikeApi.csproj",
         "packagesPath": "C:\\Users\\Quliyeva Shahla\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Quliyeva Shahla\\source\\repos\\BikeApi\\BikeApi\\obj\\",
+        "outputPath": "C:\\Users\\Quliyeva Shahla\\source\\repos\\shoxlaa\\BikeStoreDocker\\BikeApi\\BikeApi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Quliyeva Shahla\\AppData\\Roaming\\NuGet\\NuGet.Config",

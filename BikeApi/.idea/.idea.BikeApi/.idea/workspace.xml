@@ -9,7 +9,33 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6c373dd4-fd21-4c9c-ae47-905b5a14809d" name="Changes" comment="" />
+    <list default="true" id="6c373dd4-fd21-4c9c-ae47-905b5a14809d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BikeApi/Controllers/BikeController.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Bike React/bike-app" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.BikeApi/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.BikeApi/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/config/applicationhost.config" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/config/applicationhost.config" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BikeApi/Controllers/WeatherForecastController.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BikeApi/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/BikeApi/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BikeApi/bin/Debug/net7.0/BikeApi.dll" beforeDir="false" afterPath="$PROJECT_DIR$/BikeApi/bin/Debug/net7.0/BikeApi.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BikeApi/bin/Debug/net7.0/BikeApi.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/BikeApi/bin/Debug/net7.0/BikeApi.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BikeApi/obj/BikeApi.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/BikeApi/obj/BikeApi.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BikeApi/obj/Debug/net7.0/BikeApi.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/BikeApi/obj/Debug/net7.0/BikeApi.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BikeApi/obj/Debug/net7.0/BikeApi.MvcApplicationPartsAssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/BikeApi/obj/Debug/net7.0/BikeApi.MvcApplicationPartsAssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BikeApi/obj/Debug/net7.0/BikeApi.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/BikeApi/obj/Debug/net7.0/BikeApi.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BikeApi/obj/Debug/net7.0/BikeApi.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/BikeApi/obj/Debug/net7.0/BikeApi.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BikeApi/obj/Debug/net7.0/BikeApi.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/BikeApi/obj/Debug/net7.0/BikeApi.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BikeApi/obj/Debug/net7.0/BikeApi.dll" beforeDir="false" afterPath="$PROJECT_DIR$/BikeApi/obj/Debug/net7.0/BikeApi.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BikeApi/obj/Debug/net7.0/BikeApi.genruntimeconfig.cache" beforeDir="false" afterPath="$PROJECT_DIR$/BikeApi/obj/Debug/net7.0/BikeApi.genruntimeconfig.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BikeApi/obj/Debug/net7.0/BikeApi.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/BikeApi/obj/Debug/net7.0/BikeApi.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BikeApi/obj/Debug/net7.0/ref/BikeApi.dll" beforeDir="false" afterPath="$PROJECT_DIR$/BikeApi/obj/Debug/net7.0/ref/BikeApi.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BikeApi/obj/Debug/net7.0/refint/BikeApi.dll" beforeDir="false" afterPath="$PROJECT_DIR$/BikeApi/obj/Debug/net7.0/refint/BikeApi.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BikeApi/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/BikeApi/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BikeApi/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/BikeApi/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BikeApi/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/BikeApi/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BikeApi/obj/rider.project.model.nuget.info" beforeDir="false" afterPath="$PROJECT_DIR$/BikeApi/obj/rider.project.model.nuget.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BikeApi/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/BikeApi/obj/rider.project.restore.info" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,10 +44,13 @@
   <component name="DpaMonitoringSettings">
     <option name="autoShow" value="false" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "customColor": "",
-  "associatedIndex": 4
-}]]></component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 4
+}</component>
   <component name="ProjectId" id="2g0wwYX586mqyIVB5WYyUacJXGj" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -31,6 +60,7 @@
   "keyToString": {
     ".NET Launch Settings Profile.BikeApi: IIS Express.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -103,6 +133,7 @@
       <option name="presentableId" value="Default" />
       <updated>1714848043170</updated>
       <workItem from="1714848043401" duration="5412000" />
+      <workItem from="1714933758607" duration="1906000" />
     </task>
     <servers />
   </component>

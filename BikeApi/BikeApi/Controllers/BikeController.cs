@@ -1,12 +1,24 @@
+using BikeApi.Models;
 using Microsoft.AspNetCore.Mvc;
 
 namespace BikeApi.Controllers;
 
-public class BikeController : Controller
+[Route("api/v1/[controller]")]
+[ApiController]
+public class BikeController : ControllerBase
 {
-    // GET
-    public IActionResult Index()
+
+    private BikeStoreContext _bikeStoreContext;
+
+    public BikeController(BikeStoreContext bikeStoreContext)
     {
-        return View();
+        _bikeStoreContext = bikeStoreContext;
+    }
+    // GET
+    [HttpGet("get-store")] 
+    public IActionResult GetAllBooks()
+    {
+        var stores = _bikeStoreContext.Stores;
+        return Ok(stores);
     }
 }
