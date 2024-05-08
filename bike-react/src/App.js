@@ -1,25 +1,32 @@
 import logo from './logo.svg';
 import './App.css';
+import React, { useState } from 'react';
+import Button from './components/Button';
+import TableComponent from './components/Table'
+import Fetch from './components/DataFetcher';
+import MyComponent from './components/MyComponent';
+import axios from 'axios';
 
-function App() {
+const App = () => {
+  const [count, setCount] = useState(0);
+
+  const incrementCount = () => {
+    setCount(count + 1);
+  };
+
+  const decrementCount = () => {
+    setCount(count - 1);
+  };
+
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div>
+      <h1>Counter App</h1>
+      <p>Count: {count}</p>
+      <Button onClick={incrementCount} text="Increment" />
+      <Button onClick={decrementCount} text="Decrement" />
+      <MyComponent></MyComponent>
+
     </div>
   );
-}
-
+};
 export default App;
